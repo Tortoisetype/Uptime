@@ -4,17 +4,19 @@
     "url": "https://www.v-eyes.io.vn",
     "icon": "https://icons.duckduckgo.com/ip3/www.v-eyes.io.vn.ico",
     "slug": "v-eyes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 645,
-    "timeDay": 645,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "40.57%",
+    "uptimeDay": "40.57%",
+    "uptimeWeek": "40.57%",
+    "uptimeMonth": "40.57%",
+    "uptimeYear": "40.57%",
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
+    "dailyMinutesDown": {
+      "2026-05-08": 119
+    }
   }
 ]
